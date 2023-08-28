@@ -1,2 +1,3 @@
 # PASSWORD-MANAGER
-A password manager folder that helps in password management
+## FILE
+### helps to generate SHA-256 hash 
